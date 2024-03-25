@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+.header{
+    text-align: center;
+    color: rgb(25, 25, 145);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.act{
+    color: grey;
+    font-size: 20px;
+}
+
+.prologue{
+    color: grey;
+    font-size: 20px;
+}
+
+.scene{
+    color: grey;
+    font-size: 20px;
+}
+
+.sampson{
+    color: grey;
+    font-size: 20px;
+}
+
+.gregory{
+    color: grey;
+    font-size: 20px;
+}
+
+.text{
+    font-style: italic;
+}
