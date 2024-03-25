@@ -37,3 +37,44 @@ body{
 .text{
     font-style: italic;
 }
+
+
+
+
+.h1{
+    font-size: 32px;
+}
+
+.text1{
+    line-height: 2;
+}
+
+.player_cards{
+    margin-bottom: 20px;
+
+}
+
+.hearts{
+    color: red;
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
+.diamonds{
+    color: red;
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
+.clubs{
+    color: black;
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
+.spades{
+    color: black;
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
