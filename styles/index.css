@@ -1,49 +1,14 @@
-.header{
-    text-align: center;
-    font-size: 35px;
-    font-weight: bold;
+body{
+    border: 5px;
 }
 
-.h2{
-    text-align: center;
+.lists{
+    list-style-type: none;
+    padding: 1px;
+    background-color: #de757580;
 }
 
-.text{
-    font-size: 17px;
-    font-weight: bold;
-}
-
-.html{
-    text-decoration: dashed underline;
-    font-weight: bold;
-}
-
-.html1{
-    text-decoration: dashed underline;
-}
-
-.tags{
-    font-style: italic;
-}
-
-.text1{
-    color: rgb(199, 1, 1);
-    background-color: rgb(241, 235, 228);
-}
-
-.pre{
-    background-color: rgb(241, 235, 228);
-}
-
-.code{
-    color: rgb(199, 1, 1);
-}
-
-.Tags{
-    font-weight: bold;
-}
-
-.text2{
-    color: cadetblue;
-    background-color: rgb(241, 235, 228);
+.apple{
+    background-color: #d7595980;
+    
 }
